@@ -1,0 +1,8 @@
+﻿  ShanonFano.cpp
+D:\docs\programming\lab_work\ShanonFano\ShanonFano\ShanonFano.cpp(53,53): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\programming\lab_work\ShanonFano\ShanonFano\ShanonFano.cpp(54,53): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\programming\lab_work\ShanonFano\ShanonFano\ShanonFano.cpp(57,56): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\programming\lab_work\ShanonFano\ShanonFano\ShanonFano.cpp(58,56): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\programming\lab_work\ShanonFano\ShanonFano\ShanonFano.cpp(59,55): warning C4305: инициализация: усечение из "double" в "float"
+D:\docs\programming\lab_work\ShanonFano\ShanonFano\ShanonFano.cpp(61,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ShanonFano.vcxproj -> D:\docs\programming\lab_work\ShanonFano\x64\Debug\ShanonFano.exe
